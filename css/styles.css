@@ -1,0 +1,37 @@
+h1
+{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: darkgreen;
+}
+
+h2
+{
+    font-family: cursive;
+    text-align: center;
+}
+
+body 
+{
+    background-color:aquamarine;
+    cursor: crosshair;
+}
+
+.project 
+{
+    color: red;
+}
+
+.aboutMe
+{
+    color: blue;
+}
+
+img
+{
+    border-radius: 5%;
+    border-color: black;
+    border-width: 5px;
+    border-style: solid;
+}
